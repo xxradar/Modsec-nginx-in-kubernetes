@@ -1,4 +1,4 @@
-# Modsec-nginx-in-kubernetes
+# Modsecurity w/ OWASP CRS Nginx demo in kubernetes
 ## Setting up a webserver
 Spin up a nginx webserver
 ```
